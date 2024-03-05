@@ -1,0 +1,14 @@
+C:\Users\bielzinho\Downloads\github estágio des\bin\Debug\net8.0\github estágio des.exe
+C:\Users\bielzinho\Downloads\github estágio des\bin\Debug\net8.0\github estágio des.deps.json
+C:\Users\bielzinho\Downloads\github estágio des\bin\Debug\net8.0\github estágio des.runtimeconfig.json
+C:\Users\bielzinho\Downloads\github estágio des\bin\Debug\net8.0\github estágio des.dll
+C:\Users\bielzinho\Downloads\github estágio des\bin\Debug\net8.0\github estágio des.pdb
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\github estágio des.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\github estágio des.AssemblyInfoInputs.cache
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\github estágio des.AssemblyInfo.cs
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\github estágio des.csproj.CoreCompileInputs.cache
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\github estágio des.dll
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\refint\github estágio des.dll
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\github estágio des.pdb
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\github estágio des.genruntimeconfig.cache
+C:\Users\bielzinho\Downloads\github estágio des\obj\Debug\net8.0\ref\github estágio des.dll
